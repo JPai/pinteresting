@@ -1,6 +1,6 @@
 # One Month Rails
 
-This si the pinteresting sample application for 
-[*One Month Rails]{http://onemonthrails.com}
+This is the pinteresting sample application for 
+[*One Month Rails*](http://onemonthrails.com)
 
-by [Justin Pai]
+by [Justin Pai](http://tw.linkedin.com/in/justinpai/)
